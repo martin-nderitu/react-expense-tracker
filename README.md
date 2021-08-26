@@ -1,7 +1,7 @@
 ## Simple React Expense Tracker
 
 A simple react expense tracking app\
-##[**Demo**](https://simple-react-expense-tracker.herokuapp.com/)
+## [**Demo**](https://simple-react-expense-tracker.herokuapp.com/)
 
 ## Available Scripts
 
